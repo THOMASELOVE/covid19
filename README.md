@@ -1,6 +1,6 @@
 # covid19
 
-Repository of Links related to COVID-19 for the benefit of my students
+Repository of Links related to COVID-19 for the benefit of my students. If you have a link to suggest, please email me at `Thomas dot Love at case dot edu`.
 
 ## New Posts
 
@@ -11,7 +11,7 @@ Repository of Links related to COVID-19 for the benefit of my students
 
 - [Coronavirus Vaccine Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html) at the *New York Times*.
 - [Coronavirus: Latest Map and Case Count](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html) at the *New York Times*.
-- [Where The Latest COVID-19 Models Think We're Headed — And Why They Disagree]https://projects.fivethirtyeight.com/covid-forecasts/ by Ryan Best and Jay Boice at FiveThirtyEight.
+- [Where The Latest COVID-19 Models Think We're Headed — And Why They Disagree](https://projects.fivethirtyeight.com/covid-forecasts/) by Ryan Best and Jay Boice at FiveThirtyEight.
 
 ## Local Data
 
