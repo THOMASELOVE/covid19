@@ -17,3 +17,5 @@ Repository of Links related to COVID-19 for the benefit of my students. If you h
 
 - [CWRU COVID-19 Testing and Case Data table](https://case.edu/return-to-campus/campus-information/covid-19-testing-and-case-data) updated weekly on Tuesdays, posted 2020-08-25.
 - [Cuyahoga County Board of Health COVID-19 Report](https://www.ccbh.net/coronavirus/), updated weekly since 2020-03-27 for Cuyahoga County outside of Cleveland
+- Health Policy Institute of Ohio data brief on [Ohio COVID-19 disparities by race and ethnicity](https://www.healthpolicyohio.org/ohio-covid-19-disparities-by-race-and-ethnicity-september-update/), September update.
+    - [County-level data from HPIO](https://www.healthpolicyohio.org/comparison-of-covid-19-cases-by-ohio-county-and-by-race-and-ethnicity-jan-2-2020-through-aug-24-2020/) for Ohio.
