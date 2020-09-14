@@ -4,6 +4,8 @@ Repository of Links related to COVID-19 for the benefit of my students. If you h
 
 ## New Posts
 
+- [Why Coming Up With Effective Interventions To Address COVID-19 Is So Hard](https://fivethirtyeight.com/features/why-coming-up-with-effective-interventions-to-address-covid-19-is-so-hard/) by Neil Lewis, Jr. at *FiveThirtyEight*, posted 2020-09-14.
+- [Coronavirus Models Were Always About More Than Flattening The Curve](https://fivethirtyeight.com/features/coronavirus-models-were-always-about-more-than-flattening-the-curve/) by Maggie Koerth at *FiveThirtyEight*, posted 2020-09-10.
 - [When politicians cite Covid-19 statistics, they may be wrong - it doesn't mean the numbers are](https://www.theguardian.com/commentisfree/2020/aug/31/politicians-covid-19-statistics-statisticians) by David Spiegelhalter in *The Guardian*, posted 2020-08-31.
 - [Mathematicians forecast COVID-19 spread](https://thedaily.case.edu/mathematicians-forecast-covid-19-spread/) from *The Daily* at CWRU, posted 2020-09-02.
 
