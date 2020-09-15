@@ -4,6 +4,7 @@ Repository of Links related to COVID-19 for the benefit of my students. If you h
 
 ## New Posts
 
+- Monday 2020-10-19 is the date for a National Academy of Medicine symposium on [Confronting Urgent Threats to Human Health & Society: COVID-19 and Climate Change](https://www.eventbrite.com/e/2020-national-academy-of-medicine-annual-meeting-virtual-tickets-118166995665). The event is free to attend and will be held entirely online. Click the link I provided for tickets. 
 - [Why Coming Up With Effective Interventions To Address COVID-19 Is So Hard](https://fivethirtyeight.com/features/why-coming-up-with-effective-interventions-to-address-covid-19-is-so-hard/) by Neil Lewis, Jr. at *FiveThirtyEight*, posted 2020-09-14.
 - [Coronavirus Models Were Always About More Than Flattening The Curve](https://fivethirtyeight.com/features/coronavirus-models-were-always-about-more-than-flattening-the-curve/) by Maggie Koerth at *FiveThirtyEight*, posted 2020-09-10.
 - [When politicians cite Covid-19 statistics, they may be wrong - it doesn't mean the numbers are](https://www.theguardian.com/commentisfree/2020/aug/31/politicians-covid-19-statistics-statisticians) by David Spiegelhalter in *The Guardian*, posted 2020-08-31.
