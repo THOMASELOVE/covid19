@@ -2,9 +2,11 @@
 
 Repository of Links related to COVID-19 for the benefit of my students. If you have a link to suggest, please email me at `Thomas dot Love at case dot edu`.
 
-## New Posts
+## Blog Posts and Articles
 
 - Monday 2020-10-19 is the date for a National Academy of Medicine symposium on [Confronting Urgent Threats to Human Health & Society: COVID-19 and Climate Change](https://www.eventbrite.com/e/2020-national-academy-of-medicine-annual-meeting-virtual-tickets-118166995665). The event is free to attend and will be held entirely online. Click the link I provided for tickets. 
+- [Stop Expecting Life to Go Back to Normal Next Year](https://www.nytimes.com/2020/09/15/opinion/coronavirus-precautions.html) by Aaron Carroll, 2020-09-15, *New York Times* Opinion.
+    - Dr. Carroll's [When It Comes to Covid-19, Most of Us Have Risk Exactly Backward](https://www.nytimes.com/2020/08/28/opinion/coronavirus-schools-tradeoffs.html) from 2020-08-28 is also worth some time, as is [The Incidental Economist blog](https://theincidentaleconomist.com/) where is co-Editor in Chief.
 - [Why Coming Up With Effective Interventions To Address COVID-19 Is So Hard](https://fivethirtyeight.com/features/why-coming-up-with-effective-interventions-to-address-covid-19-is-so-hard/) by Neil Lewis, Jr. at *FiveThirtyEight*, posted 2020-09-14.
 - [Coronavirus Models Were Always About More Than Flattening The Curve](https://fivethirtyeight.com/features/coronavirus-models-were-always-about-more-than-flattening-the-curve/) by Maggie Koerth at *FiveThirtyEight*, posted 2020-09-10.
 - [When politicians cite Covid-19 statistics, they may be wrong - it doesn't mean the numbers are](https://www.theguardian.com/commentisfree/2020/aug/31/politicians-covid-19-statistics-statisticians) by David Spiegelhalter in *The Guardian*, posted 2020-08-31.
