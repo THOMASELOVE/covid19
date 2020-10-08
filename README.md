@@ -4,6 +4,7 @@ Repository of Links related to COVID-19 for the benefit of my students. If you h
 
 ## Blog Posts and Articles
 
+- From the New England Journal of Medicine (2020-10-08): [Dying in a Leadership Vacuum](https://www.nejm.org/doi/full/10.1056/NEJMe2029812), an editorial.
 - From *Chance* magazine: [Understanding COVID-19 in 2020 Through the Lens of the 1918 "Spanish Flu" Epidemic](https://chance.amstat.org/2020/09/understanding-covid-19/)
 - Also from *Chance*: [Privacy Risk and Preservation in Contact Tracing of COVID-19](https://chance.amstat.org/2020/09/contact-tracing-covid-19)
 - Monday 2020-10-19 is the date for a National Academy of Medicine symposium on [Confronting Urgent Threats to Human Health & Society: COVID-19 and Climate Change](https://www.eventbrite.com/e/2020-national-academy-of-medicine-annual-meeting-virtual-tickets-118166995665). The event is free to attend and will be held entirely online. Click the link I provided for tickets. 
