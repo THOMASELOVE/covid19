@@ -5,6 +5,7 @@ Repository of Links related to COVID-19 for the benefit of my students. If you h
 ## Blog Posts and Articles
 
 - [Dynamic COVID-19 dashboard developed by School of Medicine team](https://thedaily.case.edu/dynamic-covid-19-dashboard-developed-by-school-of-medicine-team/)
+- From Emily Oster in The Atlantic [Schools Aren't Super-Spreaders](https://www.theatlantic.com/ideas/archive/2020/10/schools-arent-superspreaders/616669/), 2020-10-09.
 - From the New England Journal of Medicine (2020-10-08): [Dying in a Leadership Vacuum](https://www.nejm.org/doi/full/10.1056/NEJMe2029812), an editorial.
 - From *Chance* magazine: [Understanding COVID-19 in 2020 Through the Lens of the 1918 "Spanish Flu" Epidemic](https://chance.amstat.org/2020/09/understanding-covid-19/)
 - Also from *Chance*: [Privacy Risk and Preservation in Contact Tracing of COVID-19](https://chance.amstat.org/2020/09/contact-tracing-covid-19)
