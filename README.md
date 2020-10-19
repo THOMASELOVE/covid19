@@ -4,7 +4,7 @@ Repository of Links related to COVID-19 for the benefit of my students. If you h
 
 ## Blog Posts and Articles
 
-- [COVID-19s Known Unknowns](https://www.bmj.com/content/371/bmj.m3979) "The more certain someone is about covid-19, the less you should trust them."
+- [COVID-19s Known Unknowns](https://www.bmj.com/content/371/bmj.m3979) from George Davey Smith, Michael Blastland, and Marcus Munafò in *The BMJ* published 2020-10-19. The money quote is ... "The more certain someone is about covid-19, the less you should trust them."
 - [Dynamic COVID-19 dashboard developed by School of Medicine team](https://thedaily.case.edu/dynamic-covid-19-dashboard-developed-by-school-of-medicine-team/)
 - From Emily Oster in The Atlantic [Schools Aren't Super-Spreaders](https://www.theatlantic.com/ideas/archive/2020/10/schools-arent-superspreaders/616669/), 2020-10-09.
 - From the New England Journal of Medicine (2020-10-08): [Dying in a Leadership Vacuum](https://www.nejm.org/doi/full/10.1056/NEJMe2029812), an editorial.
