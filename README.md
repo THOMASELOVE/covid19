@@ -5,7 +5,7 @@ Repository of Links related to COVID-19 for the benefit of my students. If you h
 ## Blog Posts and Articles
 
 - [COVID-19s Known Unknowns](https://www.bmj.com/content/371/bmj.m3979) from George Davey Smith, Michael Blastland, and Marcus Munafò in *The BMJ* published 2020-10-19. The money quote is ... "The more certain someone is about covid-19, the less you should trust them."
-- [Dynamic COVID-19 dashboard developed by School of Medicine team](https://thedaily.case.edu/dynamic-covid-19-dashboard-developed-by-school-of-medicine-team/)
+- [Information and rational decision-making: explanations to patients and citizens about personal risk of COVID-19](https://ebm.bmj.com/content/early/2020/10/18/bmjebm-2020-111541.full?ijkey=DMdSB7MzUMGK8AF&keytype=ref) By Margaret McCartney, Frank Sullivan, Carl Heneghan in BMJ Evidence-Based Medicine Published Online First: 19 October 2020. doi: 10.1136/bmjebm-2020-111541.
 - From Emily Oster in The Atlantic [Schools Aren't Super-Spreaders](https://www.theatlantic.com/ideas/archive/2020/10/schools-arent-superspreaders/616669/), 2020-10-09.
 - From the New England Journal of Medicine (2020-10-08): [Dying in a Leadership Vacuum](https://www.nejm.org/doi/full/10.1056/NEJMe2029812), an editorial.
 - From *Chance* magazine: [Understanding COVID-19 in 2020 Through the Lens of the 1918 "Spanish Flu" Epidemic](https://chance.amstat.org/2020/09/understanding-covid-19/)
@@ -26,6 +26,7 @@ Repository of Links related to COVID-19 for the benefit of my students. If you h
 
 ## Local Data
 
+- [Dynamic COVID-19 dashboard developed by School of Medicine team](https://thedaily.case.edu/dynamic-covid-19-dashboard-developed-by-school-of-medicine-team/)
 - [CWRU COVID-19 Testing and Case Data table](https://case.edu/return-to-campus/campus-information/covid-19-testing-and-case-data) updated weekly on Tuesdays, posted 2020-08-25.
 - [Cuyahoga County Board of Health COVID-19 Report](https://www.ccbh.net/coronavirus/), updated weekly since 2020-03-27 for Cuyahoga County outside of Cleveland
 - Health Policy Institute of Ohio data brief on [Ohio COVID-19 disparities by race and ethnicity](https://www.healthpolicyohio.org/ohio-covid-19-disparities-by-race-and-ethnicity-september-update/), September update.
