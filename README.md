@@ -2,6 +2,11 @@
 
 Repository of Links related to COVID-19 for the benefit of my students. If you have a link to suggest, please email me at `Thomas dot Love at case dot edu`.
 
+## COVID Vaccine Trial Protocols (if you're interested)
+
+- [Pfizer protocol is here](https://pfe-pfizercom-d8-prod.s3.amazonaws.com/2020-11/C4591001_Clinical_Protocol_Nov2020.pdf) (PDF).
+- [Moderna protocol is here](https://www.modernatx.com/sites/default/files/mRNA-1273-P301-Protocol.pdf) (PDF).
+
 ## Blog Posts and Articles
 
 - [A powerful argument for wearing a mask, in visual form](https://www.washingtonpost.com/business/2020/10/23/pandemic-data-chart-masks/) from Christopher Ingraham at *The Washington Post* 2020-10-23, referring to data from the [Carnegie-Mellon Delphi COVIDCast](https://covidcast.cmu.edu/)
